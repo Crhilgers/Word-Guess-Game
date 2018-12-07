@@ -1,0 +1,75 @@
+/* // addimages  */
+/* float wins losses and restart into one line
+create sound effects for each class
+add pop up when completed
+add hint image for each class when chosen 
+much more,*/
+
+body{
+    background-color: aqua;
+}
+header {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%;
+}
+.underscore {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%
+}
+.rightGuess {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%
+}
+.wrongGuess {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%
+}
+.health {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%
+}
+.myW {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%
+}
+.myL {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    height: 130px;
+    width: 80%
+}
+#restart {
+    border: 3px solid black;
+    font-size: 75px;
+    text-align: center;
+    margin: 15px auto;
+    margin-left: 100px;
+    height: 130px;
+    width: 80%
+}
